@@ -19,6 +19,8 @@ At the end of the second lab, edit a file called test.txt.  Write your name into
 Then, in the gcloud shell run "cat test.txt" and take a screen shot.
 ![](lab1-finish-MoritzKnodler.png)
 
+xx
+
 You should name your image something like
 "lab1-finish-YOURNAME.png". You should then modify this README.md to
 display your image rather than the image I provided. This will
